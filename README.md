@@ -18,4 +18,5 @@ Inning 2:<br/>
 The other team then plays accordingly.<br/>
 Previously Bowling team now bats and batting team bowls.<br/>
 
-After both innings end display the winning team as per who scored more. And finally display the scorecard of each player on the scoreboard.<br/>
+After both innings end display the winning team as per who scored more.<br/>
+And finally display the scorecard of each player on the scoreboard.<br/>
